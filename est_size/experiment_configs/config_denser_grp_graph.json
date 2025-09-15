@@ -1,0 +1,2252 @@
+{
+    "0": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 964,
+        "s": 103.90647131651792,
+        "v": 51.95323565825896,
+        "p_in": 0.04599647539888747,
+        "p_out": 0.009199295079777493,
+        "graph_size": "small",
+        "seed": 0,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_0"
+    },
+    "1": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 237,
+        "s": 32.08519774992965,
+        "v": 16.042598874964824,
+        "p_in": 0.24461846527926767,
+        "p_out": 0.048923693055853534,
+        "graph_size": "small",
+        "seed": 1,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_1"
+    },
+    "2": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 983,
+        "s": 188.90716296690107,
+        "v": 94.45358148345053,
+        "p_in": 0.03246846077824027,
+        "p_out": 0.006493692155648054,
+        "graph_size": "small",
+        "seed": 2,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_2"
+    },
+    "3": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 343,
+        "s": 47.64137485176767,
+        "v": 23.820687425883836,
+        "p_in": 0.10592808551992225,
+        "p_out": 0.02118561710398445,
+        "graph_size": "small",
+        "seed": 3,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_3"
+    },
+    "4": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 341,
+        "s": 32.563722668043845,
+        "v": 16.281861334021922,
+        "p_in": 0.1441952734172848,
+        "p_out": 0.02883905468345696,
+        "graph_size": "small",
+        "seed": 4,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_4"
+    },
+    "5": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 737,
+        "s": 65.08944657262082,
+        "v": 32.54472328631041,
+        "p_in": 0.062418883841661256,
+        "p_out": 0.012483776768332252,
+        "graph_size": "small",
+        "seed": 5,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_5"
+    },
+    "6": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 912,
+        "s": 124.09859143229806,
+        "v": 62.04929571614903,
+        "p_in": 0.036108382922179216,
+        "p_out": 0.007221676584435843,
+        "graph_size": "small",
+        "seed": 6,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_6"
+    },
+    "7": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 431,
+        "s": 82.82949556337594,
+        "v": 41.41474778168797,
+        "p_in": 0.10466735013219662,
+        "p_out": 0.020933470026439326,
+        "graph_size": "small",
+        "seed": 7,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_7"
+    },
+    "8": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 332,
+        "s": 35.04651125462571,
+        "v": 17.523255627312857,
+        "p_in": 0.1465984785061697,
+        "p_out": 0.02931969570123394,
+        "graph_size": "small",
+        "seed": 8,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_8"
+    },
+    "9": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 574,
+        "s": 81.4978315773767,
+        "v": 40.74891578868835,
+        "p_in": 0.07896577095913068,
+        "p_out": 0.01579315419182614,
+        "graph_size": "small",
+        "seed": 9,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_9"
+    },
+    "10": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 685,
+        "s": 37.59811545773112,
+        "v": 18.79905772886556,
+        "p_in": 0.07760703461817561,
+        "p_out": 0.015521406923635123,
+        "graph_size": "small",
+        "seed": 10,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_10"
+    },
+    "11": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 563,
+        "s": 101.26193598935586,
+        "v": 50.63096799467793,
+        "p_in": 0.10160363583497152,
+        "p_out": 0.020320727166994304,
+        "graph_size": "small",
+        "seed": 11,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_11"
+    },
+    "12": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 585,
+        "s": 52.85430727111706,
+        "v": 26.42715363555853,
+        "p_in": 0.10211918979042267,
+        "p_out": 0.020423837958084536,
+        "graph_size": "small",
+        "seed": 12,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_12"
+    },
+    "13": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 365,
+        "s": 34.16898358254041,
+        "v": 17.084491791270207,
+        "p_in": 0.10531386421797381,
+        "p_out": 0.021062772843594764,
+        "graph_size": "small",
+        "seed": 13,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_13"
+    },
+    "14": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 209,
+        "s": 29.75779347625417,
+        "v": 14.878896738127086,
+        "p_in": 0.28652926021347075,
+        "p_out": 0.05730585204269415,
+        "graph_size": "small",
+        "seed": 14,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_14"
+    },
+    "15": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 313,
+        "s": 16.197187873541026,
+        "v": 8.098593936770513,
+        "p_in": 0.10221594167281069,
+        "p_out": 0.02044318833456214,
+        "graph_size": "small",
+        "seed": 15,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_15"
+    },
+    "16": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 470,
+        "s": 56.58019129465436,
+        "v": 28.29009564732718,
+        "p_in": 0.08514267567935399,
+        "p_out": 0.017028535135870798,
+        "graph_size": "small",
+        "seed": 16,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_16"
+    },
+    "17": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 634,
+        "s": 71.08737526697139,
+        "v": 35.543687633485696,
+        "p_in": 0.07216648975137172,
+        "p_out": 0.014433297950274343,
+        "graph_size": "small",
+        "seed": 17,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_17"
+    },
+    "18": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 285,
+        "s": 19.500361761273115,
+        "v": 9.750180880636558,
+        "p_in": 0.1964665184086978,
+        "p_out": 0.03929330368173956,
+        "graph_size": "small",
+        "seed": 18,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_18"
+    },
+    "19": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 793,
+        "s": 44.7950404153407,
+        "v": 22.39752020767035,
+        "p_in": 0.06503241749143389,
+        "p_out": 0.013006483498286779,
+        "graph_size": "small",
+        "seed": 19,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_19"
+    },
+    "20": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 840,
+        "s": 128.46802378536455,
+        "v": 64.23401189268228,
+        "p_in": 0.07139451728247914,
+        "p_out": 0.01427890345649583,
+        "graph_size": "small",
+        "seed": 20,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_20"
+    },
+    "21": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 268,
+        "s": 30.203344930176662,
+        "v": 15.101672465088331,
+        "p_in": 0.16021018502990664,
+        "p_out": 0.03204203700598133,
+        "graph_size": "small",
+        "seed": 21,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_21"
+    },
+    "22": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 243,
+        "s": 20.993391689366167,
+        "v": 10.496695844683083,
+        "p_in": 0.209366391184573,
+        "p_out": 0.041873278236914606,
+        "graph_size": "small",
+        "seed": 22,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_22"
+    },
+    "23": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 898,
+        "s": 172.677198295681,
+        "v": 86.3385991478405,
+        "p_in": 0.03684143879747637,
+        "p_out": 0.007368287759495273,
+        "graph_size": "small",
+        "seed": 23,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_23"
+    },
+    "24": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 829,
+        "s": 89.05872391782029,
+        "v": 44.529361958910144,
+        "p_in": 0.06405191051438494,
+        "p_out": 0.012810382102876989,
+        "graph_size": "small",
+        "seed": 24,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_24"
+    },
+    "25": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 486,
+        "s": 80.32267176928283,
+        "v": 40.16133588464142,
+        "p_in": 0.12048703915828772,
+        "p_out": 0.024097407831657546,
+        "graph_size": "small",
+        "seed": 25,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_25"
+    },
+    "26": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 865,
+        "s": 160.89851108422246,
+        "v": 80.44925554211123,
+        "p_in": 0.06363733675872404,
+        "p_out": 0.01272746735174481,
+        "graph_size": "small",
+        "seed": 26,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_26"
+    },
+    "27": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 764,
+        "s": 93.19446691406482,
+        "v": 46.59723345703241,
+        "p_in": 0.05489834148751484,
+        "p_out": 0.010979668297502968,
+        "graph_size": "small",
+        "seed": 27,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_27"
+    },
+    "28": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 215,
+        "s": 34.69091550983475,
+        "v": 17.345457754917376,
+        "p_in": 0.23733970875896543,
+        "p_out": 0.047467941751793086,
+        "graph_size": "small",
+        "seed": 28,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_28"
+    },
+    "29": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 661,
+        "s": 40.59690196245331,
+        "v": 20.298450981226654,
+        "p_in": 0.0904093888965296,
+        "p_out": 0.018081877779305918,
+        "graph_size": "small",
+        "seed": 29,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_29"
+    },
+    "30": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 652,
+        "s": 111.62994174870411,
+        "v": 55.814970874352056,
+        "p_in": 0.04840123264821464,
+        "p_out": 0.009680246529642928,
+        "graph_size": "small",
+        "seed": 30,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_30"
+    },
+    "31": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 112,
+        "s": 13.488913508417463,
+        "v": 6.7444567542087315,
+        "p_in": 0.5218790218790219,
+        "p_out": 0.10437580437580439,
+        "graph_size": "small",
+        "seed": 31,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_31"
+    },
+    "32": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 179,
+        "s": 33.8264596286089,
+        "v": 16.91322981430445,
+        "p_in": 0.2056995794363191,
+        "p_out": 0.041139915887263824,
+        "graph_size": "small",
+        "seed": 32,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_32"
+    },
+    "33": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 684,
+        "s": 51.36023498525549,
+        "v": 25.680117492627744,
+        "p_in": 0.060281866207735055,
+        "p_out": 0.012056373241547012,
+        "graph_size": "small",
+        "seed": 33,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_33"
+    },
+    "34": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 641,
+        "s": 66.38248283877643,
+        "v": 33.19124141938821,
+        "p_in": 0.04908346333853354,
+        "p_out": 0.00981669266770671,
+        "graph_size": "small",
+        "seed": 34,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_34"
+    },
+    "35": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 661,
+        "s": 66.30191578430038,
+        "v": 33.15095789215019,
+        "p_in": 0.05534772841883281,
+        "p_out": 0.011069545683766563,
+        "graph_size": "small",
+        "seed": 35,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_35"
+    },
+    "36": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 436,
+        "s": 25.617382504807342,
+        "v": 12.808691252403671,
+        "p_in": 0.07075819888221027,
+        "p_out": 0.014151639776442055,
+        "graph_size": "small",
+        "seed": 36,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_36"
+    },
+    "37": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 798,
+        "s": 112.64848202068234,
+        "v": 56.32424101034117,
+        "p_in": 0.06947104272601203,
+        "p_out": 0.013894208545202406,
+        "graph_size": "small",
+        "seed": 37,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_37"
+    },
+    "38": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 754,
+        "s": 85.32946394400503,
+        "v": 42.664731972002514,
+        "p_in": 0.04570224847735495,
+        "p_out": 0.00914044969547099,
+        "graph_size": "small",
+        "seed": 38,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_38"
+    },
+    "39": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 314,
+        "s": 27.930163262428653,
+        "v": 13.965081631214327,
+        "p_in": 0.10016076188925745,
+        "p_out": 0.02003215237785149,
+        "graph_size": "small",
+        "seed": 39,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_39"
+    },
+    "40": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 569,
+        "s": 77.90927162115295,
+        "v": 38.95463581057648,
+        "p_in": 0.05604099111364143,
+        "p_out": 0.011208198222728286,
+        "graph_size": "small",
+        "seed": 40,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_40"
+    },
+    "41": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 490,
+        "s": 48.91852137042478,
+        "v": 24.45926068521239,
+        "p_in": 0.07270147322732774,
+        "p_out": 0.01454029464546555,
+        "graph_size": "small",
+        "seed": 41,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_41"
+    },
+    "42": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 754,
+        "s": 50.29154380953845,
+        "v": 25.145771904769227,
+        "p_in": 0.05571348558022552,
+        "p_out": 0.011142697116045104,
+        "graph_size": "small",
+        "seed": 42,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_42"
+    },
+    "43": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 139,
+        "s": 12.914855159195344,
+        "v": 6.457427579597672,
+        "p_in": 0.27880304452090504,
+        "p_out": 0.05576060890418101,
+        "graph_size": "small",
+        "seed": 43,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_43"
+    },
+    "44": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 518,
+        "s": 66.30559199237246,
+        "v": 33.15279599618623,
+        "p_in": 0.10094620732918605,
+        "p_out": 0.020189241465837213,
+        "graph_size": "small",
+        "seed": 44,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_44"
+    },
+    "45": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 378,
+        "s": 42.58309045636057,
+        "v": 21.291545228180286,
+        "p_in": 0.10918838505045401,
+        "p_out": 0.021837677010090803,
+        "graph_size": "small",
+        "seed": 45,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_45"
+    },
+    "46": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 178,
+        "s": 19.579850372426048,
+        "v": 9.789925186213024,
+        "p_in": 0.32247825810956643,
+        "p_out": 0.06449565162191329,
+        "graph_size": "small",
+        "seed": 46,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_46"
+    },
+    "47": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 460,
+        "s": 27.31423733147123,
+        "v": 13.657118665735615,
+        "p_in": 0.10831675665435256,
+        "p_out": 0.021663351330870512,
+        "graph_size": "small",
+        "seed": 47,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_47"
+    },
+    "48": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 661,
+        "s": 64.32722565924405,
+        "v": 32.163612829622025,
+        "p_in": 0.08728281300142117,
+        "p_out": 0.017456562600284234,
+        "graph_size": "small",
+        "seed": 48,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_48"
+    },
+    "49": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 168,
+        "s": 17.07711320827692,
+        "v": 8.53855660413846,
+        "p_in": 0.21186199030510408,
+        "p_out": 0.04237239806102082,
+        "graph_size": "small",
+        "seed": 49,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_49"
+    },
+    "50": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 7311,
+        "s": 1196.7606959844827,
+        "v": 598.3803479922414,
+        "p_in": 0.006166896910208387,
+        "p_out": 0.0012333793820416775,
+        "graph_size": "medium",
+        "seed": 0,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_0"
+    },
+    "51": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 3201,
+        "s": 433.35324049588525,
+        "v": 216.67662024794262,
+        "p_in": 0.010182364885973133,
+        "p_out": 0.0020364729771946265,
+        "graph_size": "medium",
+        "seed": 1,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_1"
+    },
+    "52": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 1926,
+        "s": 122.75884508132576,
+        "v": 61.37942254066288,
+        "p_in": 0.021966527760920285,
+        "p_out": 0.004393305552184057,
+        "graph_size": "medium",
+        "seed": 2,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_2"
+    },
+    "53": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 4898,
+        "s": 680.3132770377786,
+        "v": 340.1566385188893,
+        "p_in": 0.0075515605132532955,
+        "p_out": 0.0015103121026506592,
+        "graph_size": "medium",
+        "seed": 3,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_3"
+    },
+    "54": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 4867,
+        "s": 464.77313262571664,
+        "v": 232.38656631285832,
+        "p_in": 0.0105491651290543,
+        "p_out": 0.00210983302581086,
+        "graph_size": "medium",
+        "seed": 4,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_4"
+    },
+    "55": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 5185,
+        "s": 836.1748308975323,
+        "v": 418.08741544876614,
+        "p_in": 0.010956343678940914,
+        "p_out": 0.002191268735788183,
+        "graph_size": "medium",
+        "seed": 5,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_5"
+    },
+    "56": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 2320,
+        "s": 284.792050519969,
+        "v": 142.3960252599845,
+        "p_in": 0.019310121782575723,
+        "p_out": 0.0038620243565151446,
+        "graph_size": "medium",
+        "seed": 6,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_6"
+    },
+    "57": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 6305,
+        "s": 1211.6936647960215,
+        "v": 605.8468323980107,
+        "p_in": 0.007362871703627368,
+        "p_out": 0.0014725743407254738,
+        "graph_size": "medium",
+        "seed": 7,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_7"
+    },
+    "58": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 4714,
+        "s": 497.61823510333016,
+        "v": 248.80911755166508,
+        "p_in": 0.010794396851935822,
+        "p_out": 0.0021588793703871643,
+        "graph_size": "medium",
+        "seed": 8,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_8"
+    },
+    "59": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 8585,
+        "s": 1218.9179165362002,
+        "v": 609.4589582681001,
+        "p_in": 0.004445105439221078,
+        "p_out": 0.0008890210878442157,
+        "graph_size": "medium",
+        "seed": 9,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_9"
+    },
+    "60": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 1533,
+        "s": 175.27303812254263,
+        "v": 87.63651906127131,
+        "p_in": 0.03571300833363139,
+        "p_out": 0.0071426016667262785,
+        "graph_size": "medium",
+        "seed": 10,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_10"
+    },
+    "61": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 8411,
+        "s": 1512.8137541855635,
+        "v": 756.4068770927818,
+        "p_in": 0.006742628382429385,
+        "p_out": 0.001348525676485877,
+        "graph_size": "medium",
+        "seed": 11,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_11"
+    },
+    "62": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 8775,
+        "s": 792.8146090667558,
+        "v": 396.4073045333779,
+        "p_in": 0.005801107519821903,
+        "p_out": 0.0011602215039643808,
+        "graph_size": "medium",
+        "seed": 12,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_12"
+    },
+    "63": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 5243,
+        "s": 490.8163860911216,
+        "v": 245.4081930455608,
+        "p_in": 0.007494449640635653,
+        "p_out": 0.0014988899281271307,
+        "graph_size": "medium",
+        "seed": 13,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_13"
+    },
+    "64": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 2750,
+        "s": 391.5499141612391,
+        "v": 195.77495708061954,
+        "p_in": 0.020051985846092794,
+        "p_out": 0.004010397169218559,
+        "graph_size": "medium",
+        "seed": 14,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_14"
+    },
+    "65": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 4423,
+        "s": 228.88230659639603,
+        "v": 114.44115329819802,
+        "p_in": 0.0072690623711238475,
+        "p_out": 0.0014538124742247696,
+        "graph_size": "medium",
+        "seed": 15,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_15"
+    },
+    "66": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 6923,
+        "s": 833.4141794316855,
+        "v": 416.70708971584276,
+        "p_in": 0.005892655926296706,
+        "p_out": 0.0011785311852593413,
+        "graph_size": "medium",
+        "seed": 16,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_16"
+    },
+    "67": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 9552,
+        "s": 1071.0198873030138,
+        "v": 535.5099436515069,
+        "p_in": 0.004884734986137191,
+        "p_out": 0.0009769469972274382,
+        "graph_size": "medium",
+        "seed": 17,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_17"
+    },
+    "68": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 3969,
+        "s": 271.56819589646665,
+        "v": 135.78409794823332,
+        "p_in": 0.011295834044489958,
+        "p_out": 0.0022591668088979915,
+        "graph_size": "medium",
+        "seed": 18,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_18"
+    },
+    "69": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 1708,
+        "s": 286.4942894295178,
+        "v": 143.2471447147589,
+        "p_in": 0.029273318708335563,
+        "p_out": 0.005854663741667113,
+        "graph_size": "medium",
+        "seed": 19,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_19"
+    },
+    "70": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 3477,
+        "s": 309.36300523787594,
+        "v": 154.68150261893797,
+        "p_in": 0.015524838052988685,
+        "p_out": 0.0031049676105977374,
+        "graph_size": "medium",
+        "seed": 20,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_20"
+    },
+    "71": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 3702,
+        "s": 417.2118766101269,
+        "v": 208.60593830506346,
+        "p_in": 0.012105011699058952,
+        "p_out": 0.0024210023398117905,
+        "graph_size": "medium",
+        "seed": 21,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_21"
+    },
+    "72": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 3299,
+        "s": 285.0090501367036,
+        "v": 142.5045250683518,
+        "p_in": 0.016482198420566276,
+        "p_out": 0.0032964396841132556,
+        "graph_size": "medium",
+        "seed": 22,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_22"
+    },
+    "73": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 5749,
+        "s": 1057.0398942402924,
+        "v": 528.5199471201462,
+        "p_in": 0.005881994787027195,
+        "p_out": 0.0011763989574054392,
+        "graph_size": "medium",
+        "seed": 23,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_23"
+    },
+    "74": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 7272,
+        "s": 1279.6535523689918,
+        "v": 639.8267761844959,
+        "p_in": 0.005031214165289449,
+        "p_out": 0.0010062428330578899,
+        "graph_size": "medium",
+        "seed": 24,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_24"
+    },
+    "75": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 7176,
+        "s": 1185.9989560007689,
+        "v": 592.9994780003844,
+        "p_in": 0.00425926141726778,
+        "p_out": 0.0008518522834535559,
+        "graph_size": "medium",
+        "seed": 25,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_25"
+    },
+    "76": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 4321,
+        "s": 643.4967038983374,
+        "v": 321.7483519491687,
+        "p_in": 0.00998097148293862,
+        "p_out": 0.001996194296587724,
+        "graph_size": "medium",
+        "seed": 26,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_26"
+    },
+    "77": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 8862,
+        "s": 1375.4305308096593,
+        "v": 687.7152654048297,
+        "p_in": 0.005294947359085916,
+        "p_out": 0.0010589894718171832,
+        "graph_size": "medium",
+        "seed": 27,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_27"
+    },
+    "78": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 2850,
+        "s": 459.8563218745537,
+        "v": 229.92816093727686,
+        "p_in": 0.01933827196985092,
+        "p_out": 0.003867654393970184,
+        "graph_size": "medium",
+        "seed": 28,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_28"
+    },
+    "79": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 9980,
+        "s": 612.945660492109,
+        "v": 306.4728302460545,
+        "p_in": 0.004525616018086881,
+        "p_out": 0.0009051232036173762,
+        "graph_size": "medium",
+        "seed": 29,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_29"
+    },
+    "80": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 9832,
+        "s": 1683.3521277197221,
+        "v": 841.6760638598611,
+        "p_in": 0.0032144751590736168,
+        "p_out": 0.0006428950318147234,
+        "graph_size": "medium",
+        "seed": 30,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_30"
+    },
+    "81": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 1201,
+        "s": 144.64451003222655,
+        "v": 72.32225501611327,
+        "p_in": 0.04286289203441576,
+        "p_out": 0.008572578406883153,
+        "graph_size": "medium",
+        "seed": 31,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_31"
+    },
+    "82": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 2268,
+        "s": 428.5944717189106,
+        "v": 214.2972358594553,
+        "p_in": 0.016920558679123596,
+        "p_out": 0.0033841117358247193,
+        "graph_size": "medium",
+        "seed": 32,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_32"
+    },
+    "83": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 3740,
+        "s": 541.6827105196948,
+        "v": 270.8413552598474,
+        "p_in": 0.01568136408688302,
+        "p_out": 0.0031362728173766046,
+        "graph_size": "medium",
+        "seed": 33,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_33"
+    },
+    "84": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 9666,
+        "s": 1001.0188441803633,
+        "v": 500.50942209018166,
+        "p_in": 0.003259278954857368,
+        "p_out": 0.0006518557909714737,
+        "graph_size": "medium",
+        "seed": 34,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_34"
+    },
+    "85": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 9989,
+        "s": 1001.9513415573018,
+        "v": 500.9756707786509,
+        "p_in": 0.003695815497167028,
+        "p_out": 0.0007391630994334057,
+        "graph_size": "medium",
+        "seed": 35,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_35"
+    },
+    "86": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 6385,
+        "s": 375.1536405807222,
+        "v": 187.5768202903611,
+        "p_in": 0.004833295062244491,
+        "p_out": 0.0009666590124488983,
+        "graph_size": "medium",
+        "seed": 36,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_36"
+    },
+    "87": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 2500,
+        "s": 475.7425671941126,
+        "v": 237.8712835970563,
+        "p_in": 0.022809763905562226,
+        "p_out": 0.004561952781112446,
+        "graph_size": "medium",
+        "seed": 37,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_37"
+    },
+    "88": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 7899,
+        "s": 903.2755130486885,
+        "v": 451.63775652434424,
+        "p_in": 0.006841886541055118,
+        "p_out": 0.0013683773082110238,
+        "graph_size": "medium",
+        "seed": 38,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_38"
+    },
+    "89": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 4438,
+        "s": 394.7581673842623,
+        "v": 197.37908369213116,
+        "p_in": 0.0071065519648520785,
+        "p_out": 0.0014213103929704158,
+        "graph_size": "medium",
+        "seed": 39,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_39"
+    },
+    "90": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 8513,
+        "s": 1165.6267650454747,
+        "v": 582.8133825227374,
+        "p_in": 0.005419977981486078,
+        "p_out": 0.0010839955962972155,
+        "graph_size": "medium",
+        "seed": 40,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_40"
+    },
+    "91": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 7242,
+        "s": 722.9957791114617,
+        "v": 361.49788955573086,
+        "p_in": 0.004973062008696451,
+        "p_out": 0.0009946124017392902,
+        "graph_size": "medium",
+        "seed": 41,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_41"
+    },
+    "92": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 2824,
+        "s": 151.79455591232173,
+        "v": 75.89727795616086,
+        "p_in": 0.015148732738663287,
+        "p_out": 0.0030297465477326577,
+        "graph_size": "medium",
+        "seed": 42,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_42"
+    },
+    "93": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 1631,
+        "s": 151.540494709695,
+        "v": 75.7702473548475,
+        "p_in": 0.021952733277412706,
+        "p_out": 0.004390546655482541,
+        "graph_size": "medium",
+        "seed": 43,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_43"
+    },
+    "94": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 7693,
+        "s": 984.7276432380721,
+        "v": 492.36382161903606,
+        "p_in": 0.0070082824111092614,
+        "p_out": 0.0014016564822218523,
+        "graph_size": "medium",
+        "seed": 44,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_44"
+    },
+    "95": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 5454,
+        "s": 614.4131622989169,
+        "v": 307.20658114945843,
+        "p_in": 0.007772658187635501,
+        "p_out": 0.0015545316375271002,
+        "graph_size": "medium",
+        "seed": 45,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_45"
+    },
+    "96": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 2251,
+        "s": 247.60810779961255,
+        "v": 123.80405389980628,
+        "p_in": 0.01924754430129819,
+        "p_out": 0.003849508860259638,
+        "graph_size": "medium",
+        "seed": 46,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_46"
+    },
+    "97": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 6764,
+        "s": 401.63804632624215,
+        "v": 200.81902316312107,
+        "p_in": 0.0076085368320145275,
+        "p_out": 0.0015217073664029056,
+        "graph_size": "medium",
+        "seed": 47,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_47"
+    },
+    "98": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 9981,
+        "s": 971.3313756504007,
+        "v": 485.66568782520034,
+        "p_in": 0.005937212567605906,
+        "p_out": 0.0011874425135211812,
+        "graph_size": "medium",
+        "seed": 48,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_48"
+    },
+    "99": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 2095,
+        "s": 212.9556676865485,
+        "v": 106.47783384327425,
+        "p_in": 0.028269427595151962,
+        "p_out": 0.0056538855190303924,
+        "graph_size": "medium",
+        "seed": 49,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_49"
+    },
+    "100": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 60494,
+        "s": 9902.4540477206,
+        "v": 4951.2270238603,
+        "p_in": 0.0007369446283719801,
+        "p_out": 0.00014738892567439603,
+        "graph_size": "large",
+        "seed": 0,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_0"
+    },
+    "101": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 27611,
+        "s": 3737.9932281574156,
+        "v": 1868.9966140787078,
+        "p_in": 0.002137110239213434,
+        "p_out": 0.00042742204784268685,
+        "graph_size": "large",
+        "seed": 1,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_1"
+    },
+    "102": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 17412,
+        "s": 1109.8011477445712,
+        "v": 554.9005738722856,
+        "p_in": 0.002347464113477749,
+        "p_out": 0.0004694928226955498,
+        "graph_size": "large",
+        "seed": 2,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_2"
+    },
+    "103": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 41190,
+        "s": 5721.131866309943,
+        "v": 2860.5659331549714,
+        "p_in": 0.0008895663793589874,
+        "p_out": 0.0001779132758717975,
+        "graph_size": "large",
+        "seed": 3,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_3"
+    },
+    "104": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 40939,
+        "s": 3909.461121135035,
+        "v": 1954.7305605675174,
+        "p_in": 0.001228408219399492,
+        "p_out": 0.0002456816438798984,
+        "graph_size": "large",
+        "seed": 4,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_4"
+    },
+    "105": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 91644,
+        "s": 8093.700463638075,
+        "v": 4046.8502318190376,
+        "p_in": 0.0005064130802648698,
+        "p_out": 0.00010128261605297396,
+        "graph_size": "large",
+        "seed": 5,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_5"
+    },
+    "106": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 85211,
+        "s": 14766.478885015937,
+        "v": 7383.239442507968,
+        "p_in": 0.0006322572538205005,
+        "p_out": 0.00012645145076410012,
+        "graph_size": "large",
+        "seed": 6,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_6"
+    },
+    "107": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 52445,
+        "s": 10078.869825571348,
+        "v": 5039.434912785674,
+        "p_in": 0.0008730845209780226,
+        "p_out": 0.00017461690419560454,
+        "graph_size": "large",
+        "seed": 7,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_7"
+    },
+    "108": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 39714,
+        "s": 4192.28056616327,
+        "v": 2096.140283081635,
+        "p_in": 0.0012545482944219045,
+        "p_out": 0.0002509096588843809,
+        "graph_size": "large",
+        "seed": 8,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_8"
+    },
+    "109": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 70687,
+        "s": 10036.301778240464,
+        "v": 5018.150889120232,
+        "p_in": 0.0006486539129616025,
+        "p_out": 0.0001297307825923205,
+        "graph_size": "large",
+        "seed": 9,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_9"
+    },
+    "110": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 84894,
+        "s": 4659.641479808212,
+        "v": 2329.820739904106,
+        "p_in": 0.0006342291384255095,
+        "p_out": 0.0001268458276851019,
+        "graph_size": "large",
+        "seed": 10,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_10"
+    },
+    "111": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 69294,
+        "s": 12463.31188711621,
+        "v": 6231.655943558105,
+        "p_in": 0.0008071890129245048,
+        "p_out": 0.00016143780258490097,
+        "graph_size": "large",
+        "seed": 11,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_11"
+    },
+    "112": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 72202,
+        "s": 6523.396057417425,
+        "v": 3261.6980287087126,
+        "p_in": 0.0006969358434754245,
+        "p_out": 0.0001393871686950849,
+        "graph_size": "large",
+        "seed": 12,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_12"
+    },
+    "113": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 43948,
+        "s": 4114.132850645167,
+        "v": 2057.0664253225837,
+        "p_in": 0.0008843042606102671,
+        "p_out": 0.00017686085212205343,
+        "graph_size": "large",
+        "seed": 13,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_13"
+    },
+    "114": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 24002,
+        "s": 3417.4476507992945,
+        "v": 1708.7238253996472,
+        "p_in": 0.002436803030049011,
+        "p_out": 0.00048736060600980223,
+        "graph_size": "large",
+        "seed": 14,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_14"
+    },
+    "115": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 37391,
+        "s": 1934.9170983372924,
+        "v": 967.4585491686462,
+        "p_in": 0.000856619174475719,
+        "p_out": 0.00017132383489514382,
+        "graph_size": "large",
+        "seed": 15,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_15"
+    },
+    "116": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 57385,
+        "s": 6908.200590305832,
+        "v": 3454.100295152916,
+        "p_in": 0.0007042549327435503,
+        "p_out": 0.00014085098654871008,
+        "graph_size": "large",
+        "seed": 16,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_16"
+    },
+    "117": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 78417,
+        "s": 8792.521618785639,
+        "v": 4396.260809392819,
+        "p_in": 0.0005895386338524294,
+        "p_out": 0.0001179077267704859,
+        "graph_size": "large",
+        "seed": 17,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_17"
+    },
+    "118": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 33758,
+        "s": 2309.800745042308,
+        "v": 1154.900372521154,
+        "p_in": 0.0013016905975223754,
+        "p_out": 0.0002603381195044751,
+        "graph_size": "large",
+        "seed": 18,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_18"
+    },
+    "119": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 98752,
+        "s": 5578.310001381747,
+        "v": 2789.1550006908733,
+        "p_in": 0.0005276483315495832,
+        "p_out": 0.00010552966630991664,
+        "graph_size": "large",
+        "seed": 19,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_19"
+    },
+    "120": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 99948,
+        "s": 16791.45289387897,
+        "v": 8395.726446939485,
+        "p_in": 0.00036364572779342053,
+        "p_out": 7.272914555868411e-05,
+        "graph_size": "large",
+        "seed": 20,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_20"
+    },
+    "121": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 31620,
+        "s": 3563.5439055678585,
+        "v": 1781.7719527839292,
+        "p_in": 0.0013872234604454736,
+        "p_out": 0.0002774446920890947,
+        "graph_size": "large",
+        "seed": 21,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_21"
+    },
+    "122": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 28398,
+        "s": 2453.37587322889,
+        "v": 1226.687936614445,
+        "p_in": 0.001853639165889359,
+        "p_out": 0.0003707278331778718,
+        "graph_size": "large",
+        "seed": 22,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_22"
+    },
+    "123": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 47999,
+        "s": 8825.336212148164,
+        "v": 4412.668106074082,
+        "p_in": 0.0007010802752419593,
+        "p_out": 0.00014021605504839187,
+        "graph_size": "large",
+        "seed": 23,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_23"
+    },
+    "124": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 60182,
+        "s": 10590.224159608177,
+        "v": 5295.112079804088,
+        "p_in": 0.0006042228119024707,
+        "p_out": 0.00012084456238049414,
+        "graph_size": "large",
+        "seed": 24,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_24"
+    },
+    "125": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 59409,
+        "s": 9818.702895352519,
+        "v": 4909.351447676259,
+        "p_in": 0.0010062119099995537,
+        "p_out": 0.00020124238199991076,
+        "graph_size": "large",
+        "seed": 25,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_25"
+    },
+    "126": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 36575,
+        "s": 5446.862287683798,
+        "v": 2723.431143841899,
+        "p_in": 0.0014982334712485266,
+        "p_out": 0.00029964669424970534,
+        "graph_size": "large",
+        "seed": 26,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_26"
+    },
+    "127": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 94999,
+        "s": 11588.195238703198,
+        "v": 5794.097619351599,
+        "p_in": 0.0004446354260617348,
+        "p_out": 8.892708521234697e-05,
+        "graph_size": "large",
+        "seed": 27,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_27"
+    },
+    "128": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 24805,
+        "s": 4002.3635312625634,
+        "v": 2001.1817656312817,
+        "p_in": 0.0021394257891768666,
+        "p_out": 0.0004278851578353733,
+        "graph_size": "large",
+        "seed": 28,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_28"
+    },
+    "129": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 81843,
+        "s": 5026.58433784125,
+        "v": 2513.292168920625,
+        "p_in": 0.0005472749160290696,
+        "p_out": 0.00010945498320581392,
+        "graph_size": "large",
+        "seed": 29,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_29"
+    },
+    "130": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 80658,
+        "s": 13809.582579090455,
+        "v": 6904.791289545227,
+        "p_in": 0.0003913104645726961,
+        "p_out": 7.826209291453923e-05,
+        "graph_size": "large",
+        "seed": 30,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_30"
+    },
+    "131": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 11609,
+        "s": 1398.1499724930209,
+        "v": 699.0749862465104,
+        "p_in": 0.004112787323269649,
+        "p_out": 0.0008225574646539297,
+        "graph_size": "large",
+        "seed": 31,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_31"
+    },
+    "132": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 20147,
+        "s": 3807.2719672490703,
+        "v": 1903.6359836245351,
+        "p_in": 0.0018628098861041356,
+        "p_out": 0.00037256197722082714,
+        "graph_size": "large",
+        "seed": 32,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_32"
+    },
+    "133": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 84754,
+        "s": 6364.013678275356,
+        "v": 3182.006839137678,
+        "p_in": 0.0004901472440045913,
+        "p_out": 9.802944880091827e-05,
+        "graph_size": "large",
+        "seed": 33,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_33"
+    },
+    "134": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 79328,
+        "s": 8215.272384765141,
+        "v": 4107.636192382571,
+        "p_in": 0.00039662555204919147,
+        "p_out": 7.93251104098383e-05,
+        "graph_size": "large",
+        "seed": 34,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_34"
+    },
+    "135": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 81918,
+        "s": 8216.823505625292,
+        "v": 4108.411752812646,
+        "p_in": 0.000448557693740727,
+        "p_out": 8.97115387481454e-05,
+        "graph_size": "large",
+        "seed": 35,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_35"
+    },
+    "136": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 53083,
+        "s": 3118.916319960294,
+        "v": 1559.458159980147,
+        "p_in": 0.0005806806676570719,
+        "p_out": 0.00011613613353141437,
+        "graph_size": "large",
+        "seed": 36,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_36"
+    },
+    "137": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 99391,
+        "s": 14030.382552027115,
+        "v": 7015.191276013557,
+        "p_in": 0.0005641599518348157,
+        "p_out": 0.00011283199036696314,
+        "graph_size": "large",
+        "seed": 37,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_37"
+    },
+    "138": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 93817,
+        "s": 10617.180794210502,
+        "v": 5308.590397105251,
+        "p_in": 0.000368175523086149,
+        "p_out": 7.36351046172298e-05,
+        "graph_size": "large",
+        "seed": 38,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_38"
+    },
+    "139": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 37505,
+        "s": 3336.0534176986835,
+        "v": 1668.0267088493417,
+        "p_in": 0.0008385884157425199,
+        "p_out": 0.00016771768314850397,
+        "graph_size": "large",
+        "seed": 39,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_39"
+    },
+    "140": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 70110,
+        "s": 9599.68195669426,
+        "v": 4799.84097834713,
+        "p_in": 0.00045507962712478526,
+        "p_out": 9.101592542495705e-05,
+        "graph_size": "large",
+        "seed": 40,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_40"
+    },
+    "141": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 59941,
+        "s": 5984.132835642105,
+        "v": 2992.0664178210527,
+        "p_in": 0.0005974159541834422,
+        "p_out": 0.00011948319083668845,
+        "graph_size": "large",
+        "seed": 41,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_41"
+    },
+    "142": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 93810,
+        "s": 6257.095125693372,
+        "v": 3128.547562846686,
+        "p_in": 0.0004508813379076587,
+        "p_out": 9.017626758153175e-05,
+        "graph_size": "large",
+        "seed": 42,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_42"
+    },
+    "143": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 15053,
+        "s": 1398.6137749019244,
+        "v": 699.3068874509622,
+        "p_in": 0.0037578975757885076,
+        "p_out": 0.0007515795151577016,
+        "graph_size": "large",
+        "seed": 43,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_43"
+    },
+    "144": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 63547,
+        "s": 8134.211301813307,
+        "v": 4067.1056509066534,
+        "p_in": 0.0008364705597767718,
+        "p_out": 0.00016729411195535437,
+        "graph_size": "large",
+        "seed": 44,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_44"
+    },
+    "145": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 45635,
+        "s": 5140.950616338664,
+        "v": 2570.475308169332,
+        "p_in": 0.0009168763701840818,
+        "p_out": 0.00018337527403681638,
+        "graph_size": "large",
+        "seed": 45,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_45"
+    },
+    "146": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 20011,
+        "s": 2201.1931786663913,
+        "v": 1100.5965893331957,
+        "p_in": 0.0020977218152205194,
+        "p_out": 0.0004195443630441039,
+        "graph_size": "large",
+        "seed": 46,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_46"
+    },
+    "147": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 56117,
+        "s": 3332.1588181090674,
+        "v": 1666.0794090545337,
+        "p_in": 0.0009033091081141934,
+        "p_out": 0.0001806618216228387,
+        "graph_size": "large",
+        "seed": 47,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_47"
+    },
+    "148": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 81848,
+        "s": 7965.287088892295,
+        "v": 3982.6435444461476,
+        "p_in": 0.0007152199610455585,
+        "p_out": 0.0001430439922091117,
+        "graph_size": "large",
+        "seed": 48,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_48"
+    },
+    "149": {
+        "graph_type": "gaussian_random_partition_graph",
+        "num_nodes": 18766,
+        "s": 1907.554205157885,
+        "v": 953.7771025789425,
+        "p_in": 0.0019277682404859444,
+        "p_out": 0.0003855536480971889,
+        "graph_size": "large",
+        "seed": 49,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_49"
+    }
+}

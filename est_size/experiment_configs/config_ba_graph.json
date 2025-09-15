@@ -1,0 +1,1802 @@
+{
+    "0": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 964,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 0,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_0"
+    },
+    "1": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 237,
+        "m": 5,
+        "graph_size": "small",
+        "seed": 1,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_1"
+    },
+    "2": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 983,
+        "m": 3,
+        "graph_size": "small",
+        "seed": 2,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_2"
+    },
+    "3": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 343,
+        "m": 5,
+        "graph_size": "small",
+        "seed": 3,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_3"
+    },
+    "4": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 341,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 4,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_4"
+    },
+    "5": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 737,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 5,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_5"
+    },
+    "6": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 912,
+        "m": 5,
+        "graph_size": "small",
+        "seed": 6,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_6"
+    },
+    "7": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 431,
+        "m": 3,
+        "graph_size": "small",
+        "seed": 7,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_7"
+    },
+    "8": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 332,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 8,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_8"
+    },
+    "9": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 574,
+        "m": 5,
+        "graph_size": "small",
+        "seed": 9,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_9"
+    },
+    "10": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 685,
+        "m": 3,
+        "graph_size": "small",
+        "seed": 10,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_10"
+    },
+    "11": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 563,
+        "m": 5,
+        "graph_size": "small",
+        "seed": 11,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_11"
+    },
+    "12": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 585,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 12,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_12"
+    },
+    "13": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 365,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 13,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_13"
+    },
+    "14": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 209,
+        "m": 5,
+        "graph_size": "small",
+        "seed": 14,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_14"
+    },
+    "15": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 313,
+        "m": 3,
+        "graph_size": "small",
+        "seed": 15,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_15"
+    },
+    "16": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 470,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 16,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_16"
+    },
+    "17": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 634,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 17,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_17"
+    },
+    "18": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 285,
+        "m": 3,
+        "graph_size": "small",
+        "seed": 18,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_18"
+    },
+    "19": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 793,
+        "m": 3,
+        "graph_size": "small",
+        "seed": 19,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_19"
+    },
+    "20": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 840,
+        "m": 5,
+        "graph_size": "small",
+        "seed": 20,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_20"
+    },
+    "21": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 268,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 21,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_21"
+    },
+    "22": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 243,
+        "m": 3,
+        "graph_size": "small",
+        "seed": 22,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_22"
+    },
+    "23": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 898,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 23,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_23"
+    },
+    "24": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 829,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 24,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_24"
+    },
+    "25": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 486,
+        "m": 3,
+        "graph_size": "small",
+        "seed": 25,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_25"
+    },
+    "26": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 865,
+        "m": 3,
+        "graph_size": "small",
+        "seed": 26,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_26"
+    },
+    "27": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 764,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 27,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_27"
+    },
+    "28": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 215,
+        "m": 5,
+        "graph_size": "small",
+        "seed": 28,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_28"
+    },
+    "29": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 661,
+        "m": 3,
+        "graph_size": "small",
+        "seed": 29,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_29"
+    },
+    "30": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 652,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 30,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_30"
+    },
+    "31": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 112,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 31,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_31"
+    },
+    "32": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 179,
+        "m": 3,
+        "graph_size": "small",
+        "seed": 32,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_32"
+    },
+    "33": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 684,
+        "m": 3,
+        "graph_size": "small",
+        "seed": 33,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_33"
+    },
+    "34": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 641,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 34,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_34"
+    },
+    "35": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 661,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 35,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_35"
+    },
+    "36": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 436,
+        "m": 3,
+        "graph_size": "small",
+        "seed": 36,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_36"
+    },
+    "37": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 798,
+        "m": 5,
+        "graph_size": "small",
+        "seed": 37,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_37"
+    },
+    "38": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 754,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 38,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_38"
+    },
+    "39": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 314,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 39,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_39"
+    },
+    "40": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 569,
+        "m": 5,
+        "graph_size": "small",
+        "seed": 40,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_40"
+    },
+    "41": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 490,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 41,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_41"
+    },
+    "42": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 754,
+        "m": 3,
+        "graph_size": "small",
+        "seed": 42,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_42"
+    },
+    "43": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 139,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 43,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_43"
+    },
+    "44": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 518,
+        "m": 5,
+        "graph_size": "small",
+        "seed": 44,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_44"
+    },
+    "45": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 378,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 45,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_45"
+    },
+    "46": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 178,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 46,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_46"
+    },
+    "47": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 460,
+        "m": 3,
+        "graph_size": "small",
+        "seed": 47,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_47"
+    },
+    "48": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 661,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 48,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_48"
+    },
+    "49": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 168,
+        "m": 4,
+        "graph_size": "small",
+        "seed": 49,
+        "num_nodes_range": [
+            100,
+            1000
+        ],
+        "graph_id": "small_49"
+    },
+    "50": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 7311,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 0,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_0"
+    },
+    "51": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 3201,
+        "m": 5,
+        "graph_size": "medium",
+        "seed": 1,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_1"
+    },
+    "52": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 1926,
+        "m": 3,
+        "graph_size": "medium",
+        "seed": 2,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_2"
+    },
+    "53": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 4898,
+        "m": 5,
+        "graph_size": "medium",
+        "seed": 3,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_3"
+    },
+    "54": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 4867,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 4,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_4"
+    },
+    "55": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 5185,
+        "m": 5,
+        "graph_size": "medium",
+        "seed": 5,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_5"
+    },
+    "56": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 2320,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 6,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_6"
+    },
+    "57": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 6305,
+        "m": 3,
+        "graph_size": "medium",
+        "seed": 7,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_7"
+    },
+    "58": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 4714,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 8,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_8"
+    },
+    "59": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 8585,
+        "m": 5,
+        "graph_size": "medium",
+        "seed": 9,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_9"
+    },
+    "60": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 1533,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 10,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_10"
+    },
+    "61": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 8411,
+        "m": 5,
+        "graph_size": "medium",
+        "seed": 11,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_11"
+    },
+    "62": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 8775,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 12,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_12"
+    },
+    "63": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 5243,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 13,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_13"
+    },
+    "64": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 2750,
+        "m": 5,
+        "graph_size": "medium",
+        "seed": 14,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_14"
+    },
+    "65": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 4423,
+        "m": 3,
+        "graph_size": "medium",
+        "seed": 15,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_15"
+    },
+    "66": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 6923,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 16,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_16"
+    },
+    "67": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 9552,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 17,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_17"
+    },
+    "68": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 3969,
+        "m": 3,
+        "graph_size": "medium",
+        "seed": 18,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_18"
+    },
+    "69": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 1708,
+        "m": 5,
+        "graph_size": "medium",
+        "seed": 19,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_19"
+    },
+    "70": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 3477,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 20,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_20"
+    },
+    "71": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 3702,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 21,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_21"
+    },
+    "72": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 3299,
+        "m": 3,
+        "graph_size": "medium",
+        "seed": 22,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_22"
+    },
+    "73": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 5749,
+        "m": 3,
+        "graph_size": "medium",
+        "seed": 23,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_23"
+    },
+    "74": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 7272,
+        "m": 5,
+        "graph_size": "medium",
+        "seed": 24,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_24"
+    },
+    "75": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 7176,
+        "m": 3,
+        "graph_size": "medium",
+        "seed": 25,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_25"
+    },
+    "76": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 4321,
+        "m": 5,
+        "graph_size": "medium",
+        "seed": 26,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_26"
+    },
+    "77": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 8862,
+        "m": 5,
+        "graph_size": "medium",
+        "seed": 27,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_27"
+    },
+    "78": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 2850,
+        "m": 5,
+        "graph_size": "medium",
+        "seed": 28,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_28"
+    },
+    "79": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 9980,
+        "m": 3,
+        "graph_size": "medium",
+        "seed": 29,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_29"
+    },
+    "80": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 9832,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 30,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_30"
+    },
+    "81": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 1201,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 31,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_31"
+    },
+    "82": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 2268,
+        "m": 3,
+        "graph_size": "medium",
+        "seed": 32,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_32"
+    },
+    "83": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 3740,
+        "m": 5,
+        "graph_size": "medium",
+        "seed": 33,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_33"
+    },
+    "84": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 9666,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 34,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_34"
+    },
+    "85": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 9989,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 35,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_35"
+    },
+    "86": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 6385,
+        "m": 3,
+        "graph_size": "medium",
+        "seed": 36,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_36"
+    },
+    "87": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 2500,
+        "m": 5,
+        "graph_size": "medium",
+        "seed": 37,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_37"
+    },
+    "88": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 7899,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 38,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_38"
+    },
+    "89": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 4438,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 39,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_39"
+    },
+    "90": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 8513,
+        "m": 5,
+        "graph_size": "medium",
+        "seed": 40,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_40"
+    },
+    "91": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 7242,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 41,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_41"
+    },
+    "92": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 2824,
+        "m": 3,
+        "graph_size": "medium",
+        "seed": 42,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_42"
+    },
+    "93": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 1631,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 43,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_43"
+    },
+    "94": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 7693,
+        "m": 5,
+        "graph_size": "medium",
+        "seed": 44,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_44"
+    },
+    "95": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 5454,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 45,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_45"
+    },
+    "96": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 2251,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 46,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_46"
+    },
+    "97": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 6764,
+        "m": 3,
+        "graph_size": "medium",
+        "seed": 47,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_47"
+    },
+    "98": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 9981,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 48,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_48"
+    },
+    "99": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 2095,
+        "m": 4,
+        "graph_size": "medium",
+        "seed": 49,
+        "num_nodes_range": [
+            1000,
+            10000
+        ],
+        "graph_id": "medium_49"
+    },
+    "100": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 60494,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 0,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_0"
+    },
+    "101": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 27611,
+        "m": 5,
+        "graph_size": "large",
+        "seed": 1,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_1"
+    },
+    "102": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 17412,
+        "m": 3,
+        "graph_size": "large",
+        "seed": 2,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_2"
+    },
+    "103": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 41190,
+        "m": 5,
+        "graph_size": "large",
+        "seed": 3,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_3"
+    },
+    "104": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 40939,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 4,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_4"
+    },
+    "105": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 91644,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 5,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_5"
+    },
+    "106": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 85211,
+        "m": 3,
+        "graph_size": "large",
+        "seed": 6,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_6"
+    },
+    "107": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 52445,
+        "m": 3,
+        "graph_size": "large",
+        "seed": 7,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_7"
+    },
+    "108": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 39714,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 8,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_8"
+    },
+    "109": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 70687,
+        "m": 5,
+        "graph_size": "large",
+        "seed": 9,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_9"
+    },
+    "110": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 84894,
+        "m": 3,
+        "graph_size": "large",
+        "seed": 10,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_10"
+    },
+    "111": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 69294,
+        "m": 5,
+        "graph_size": "large",
+        "seed": 11,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_11"
+    },
+    "112": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 72202,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 12,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_12"
+    },
+    "113": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 43948,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 13,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_13"
+    },
+    "114": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 24002,
+        "m": 5,
+        "graph_size": "large",
+        "seed": 14,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_14"
+    },
+    "115": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 37391,
+        "m": 3,
+        "graph_size": "large",
+        "seed": 15,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_15"
+    },
+    "116": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 57385,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 16,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_16"
+    },
+    "117": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 78417,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 17,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_17"
+    },
+    "118": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 33758,
+        "m": 3,
+        "graph_size": "large",
+        "seed": 18,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_18"
+    },
+    "119": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 98752,
+        "m": 3,
+        "graph_size": "large",
+        "seed": 19,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_19"
+    },
+    "120": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 99948,
+        "m": 3,
+        "graph_size": "large",
+        "seed": 20,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_20"
+    },
+    "121": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 31620,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 21,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_21"
+    },
+    "122": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 28398,
+        "m": 3,
+        "graph_size": "large",
+        "seed": 22,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_22"
+    },
+    "123": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 47999,
+        "m": 3,
+        "graph_size": "large",
+        "seed": 23,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_23"
+    },
+    "124": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 60182,
+        "m": 5,
+        "graph_size": "large",
+        "seed": 24,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_24"
+    },
+    "125": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 59409,
+        "m": 3,
+        "graph_size": "large",
+        "seed": 25,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_25"
+    },
+    "126": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 36575,
+        "m": 5,
+        "graph_size": "large",
+        "seed": 26,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_26"
+    },
+    "127": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 94999,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 27,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_27"
+    },
+    "128": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 24805,
+        "m": 5,
+        "graph_size": "large",
+        "seed": 28,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_28"
+    },
+    "129": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 81843,
+        "m": 3,
+        "graph_size": "large",
+        "seed": 29,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_29"
+    },
+    "130": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 80658,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 30,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_30"
+    },
+    "131": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 11609,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 31,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_31"
+    },
+    "132": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 20147,
+        "m": 3,
+        "graph_size": "large",
+        "seed": 32,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_32"
+    },
+    "133": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 84754,
+        "m": 3,
+        "graph_size": "large",
+        "seed": 33,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_33"
+    },
+    "134": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 79328,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 34,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_34"
+    },
+    "135": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 81918,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 35,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_35"
+    },
+    "136": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 53083,
+        "m": 3,
+        "graph_size": "large",
+        "seed": 36,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_36"
+    },
+    "137": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 99391,
+        "m": 5,
+        "graph_size": "large",
+        "seed": 37,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_37"
+    },
+    "138": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 93817,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 38,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_38"
+    },
+    "139": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 37505,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 39,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_39"
+    },
+    "140": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 70110,
+        "m": 5,
+        "graph_size": "large",
+        "seed": 40,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_40"
+    },
+    "141": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 59941,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 41,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_41"
+    },
+    "142": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 93810,
+        "m": 3,
+        "graph_size": "large",
+        "seed": 42,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_42"
+    },
+    "143": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 15053,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 43,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_43"
+    },
+    "144": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 63547,
+        "m": 5,
+        "graph_size": "large",
+        "seed": 44,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_44"
+    },
+    "145": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 45635,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 45,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_45"
+    },
+    "146": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 20011,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 46,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_46"
+    },
+    "147": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 56117,
+        "m": 3,
+        "graph_size": "large",
+        "seed": 47,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_47"
+    },
+    "148": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 81848,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 48,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_48"
+    },
+    "149": {
+        "graph_type": "barabasi_albert_graph",
+        "num_nodes": 18766,
+        "m": 4,
+        "graph_size": "large",
+        "seed": 49,
+        "num_nodes_range": [
+            10000,
+            100000
+        ],
+        "graph_id": "large_49"
+    }
+}
